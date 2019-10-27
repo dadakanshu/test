@@ -4,5 +4,6 @@ void dis(){
 }
 int main()
 {
+  dis();
   printf("hello world!");
 }
