@@ -1,6 +1,6 @@
 #include<stdio.h>
 void dis(){
-    printf("hello world!");
+    printf("hello pig");
 }
 int main()
 {
