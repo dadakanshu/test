@@ -1,6 +1,7 @@
 #include<stdio.h>
-void dis(){
-    printf("hello pig");
+void dis()
+{
+    printf("hello you fuck");
 }
 int main()
 {
