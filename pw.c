@@ -6,4 +6,5 @@ int main()
 	{
 		x= x+i;
 	}
+	printf(x);
 }	
